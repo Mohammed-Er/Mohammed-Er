@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammed!
 
 ### 🎓 STEM Student & Aspiring Software Engineer
-A 15-year-old self-taught developer and **A G10 STEM student** focused on building impactful projects. I’m passionate about Web Development, and solving real-world engineering challenges through collaborative teamwork and structured problem-solving. 
+A 15 year old self taught developer and **A G10 STEM student** focused on learning through building impactful projects. I’m passionate about Web Development, and solving real world engineering challenges through teamwork and structured problem solving. 
 
 ---
 
@@ -24,11 +24,6 @@ A 15-year-old self-taught developer and **A G10 STEM student** focused on buildi
 
 #### ☕ [Cafe Landing Page](https://mohammed-er.github.io/Cafe-landing-page/)
 A responsive single-page site built with **HTML, CSS & JavaScript**. Features a hero section and interactive form.
-
----
-
-### ⚡ Fun Fact
-> I think faster than I act, which is why I'm usually confused.
 
 ---
 
