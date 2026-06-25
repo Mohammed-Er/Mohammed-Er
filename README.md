@@ -48,7 +48,7 @@ I am a self-taught full-stack developer and a **G11 STEM student**. I specialize
 
 ### 📂 Featured Projects
 
-#### 📝 [Minimalist Todo CRUD API](https://github.com/not yet displayed)
+#### 📝 https://github.com/Mohammed-Er/minimalist-todo-api
 A production-ready RESTful backend API tracking tasks using structural data isolation.
 - **Tech Stack:** Node.js, Express.js, MongoDB, Mongoose ODM, Dotenv
 - **Key Features:**  Mongoose schema validation, full HTTP Verb CRUD implementation (`GET`, `POST`, `PUT`, `DELETE`).
