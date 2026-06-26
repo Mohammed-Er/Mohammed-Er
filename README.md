@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Role-Aspiring%20Full%20Stack%20Engineer-orange?style=flat-square" alt="Role">
 </p>
 
-I am a self-taught full-stack developer and a **G11 STEM student**. I specialize in building scalable backend systems, designing clean database architectures, and solving engineering challenges through structured problem-solving (EDP) and scientific research.
+I am a self-taught full-stack developer and a **G11 STEM student**. I specialize in solving real world problems through structured problem-solving (EDP) and scientific research.
 
 ---
 
