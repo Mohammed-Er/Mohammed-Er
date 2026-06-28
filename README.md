@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Mohammed!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Age-15-blue?style=flat-square" alt="Age">
   <img src="https://img.shields.io/badge/Grade-11%20STEM-purple?style=flat-square" alt="Grade">
   <img src="https://img.shields.io/badge/Role-Aspiring%20Full--Stack%20Developer-orange?style=flat-square" alt="Role">
 </p>
 
-I'm a self-taught developer and Grade 11 STEM student from Egypt with a passion for software engineering, backend development, and solving real-world problems through technology. I enjoy learning by building complete projects, exploring modern web technologies, and continuously improving my programming skills.
+I'm a self-taught full-stack developer and Grade 11 STEM student from Egypt with a passion for software engineering, backend development, and solving real-world problems through technology. I enjoy learning by building complete projects, exploring modern web technologies, and continuously improving my programming skills.
 
 ---
 
@@ -111,3 +110,9 @@ https://mohammed-er.github.io/Cafe-landing-page/
 # 📫 Connect with Me
 
 📧 **Email:** [moalaa2032011@gmail.com](mailto:moalaa2032011@gmail.com)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Er&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Er&layout=compact&theme=tokyonight)
