@@ -6,93 +6,108 @@
   <img src="https://img.shields.io/badge/Role-Aspiring%20Full--Stack%20Developer-orange?style=flat-square" alt="Role">
 </p>
 
-I'm a self-taught developer and a **Grade 11 STEM student** passionate about building software, solving real-world problems, and continuously learning modern technologies. I enjoy combining programming with engineering design and scientific research to create practical solutions.
+I'm a self-taught developer and Grade 11 STEM student from Egypt with a passion for software engineering, backend development, and solving real-world problems through technology. I enjoy learning by building complete projects, exploring modern web technologies, and continuously improving my programming skills.
 
 ---
 
-## 🚀 Technical Skills & Tools
+#  Technical Skills
 
-<table>
-  <tr>
-    <td align="center" width="120"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-    </td>
-  </tr>
+### Languages
 
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-    </td>
-  </tr>
+* JavaScript (ES6+)
+* Python
 
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
-    </td>
-  </tr>
+### Frontend
 
-  <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose">
-    </td>
-  </tr>
+* HTML5
+* CSS3
+* Tailwind CSS *(currently learning)*
 
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-    </td>
-  </tr>
+### Backend
 
-  <tr>
-    <td align="center"><strong>Hardware & STEM</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino">
-      <span>Scientific Research • Engineering Design Process (EDP) • Capstone</span>
-    </td>
-  </tr>
-</table>
+* Node.js
+* Express.js
+* REST APIs
+
+### Databases
+
+* MongoDB
+* Mongoose ODM
+
+### Authentication & Security
+
+* JSON Web Tokens (JWT)
+* bcryptjs Password Hashing
+* Protected Routes
+* Authorization Middleware
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+
+### STEM & Engineering
+
+* Arduino
+* Engineering Design Process (EDP)
+* Scientific Research
+* Capstone Projects
 
 ---
 
-## 📂 Featured Projects
+#  Projects I'm Proud of:
 
-### 📝 [Minimalist Todo CRUD API](https://github.com/Mohammed-Er/minimalist-todo-api)
+## 📝 Minimalist Todo API (Mostly)
 
-A RESTful backend API built with Node.js, Express, and MongoDB that demonstrates clean architecture, CRUD operations, and MongoDB integration.
+A secure multi-user REST API built with Node.js, Express.js, and MongoDB following the MVC architecture.
 
-**Tech Stack:** Node.js • Express.js • MongoDB • Mongoose • Dotenv
+### Features
 
-**Features:**
+* User Registration & Login
+* JWT Authentication
+* Password Hashing (bcryptjs)
+* Protected Routes
+* Multi-user Authorization
+* Complete CRUD Operations
+* MongoDB & Mongoose
+* Centralized Error Handling
+* Environment Variables
+* MVC Architecture
 
-* Complete CRUD operations
-* Mongoose schema validation
-* Environment variable management
-* Modular backend architecture
+**Tech Stack**
+
+Node.js • Express.js • MongoDB • Mongoose • JWT • bcryptjs • Dotenv • Postman
+
+🔗 Repository:
+https://github.com/Mohammed-Er/minimalist-todo-api
 
 ---
 
-### ☕ [Cafe Landing Page](https://mohammed-er.github.io/Cafe-landing-page/)
+## ☕ Cafe Landing Page
 
-A responsive landing page built with HTML, CSS, and JavaScript featuring a modern UI and interactive contact form.
+A responsive landing page built with HTML, CSS, and JavaScript featuring a modern interface and responsive design.
 
-**Tech Stack:** HTML5 • CSS3 • JavaScript
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+🔗 Live Demo:
+https://mohammed-er.github.io/Cafe-landing-page/
 
 ---
 
-## 📫 Connect with Me
+# 🎯 Currently Learning
 
-<a href="mailto:moalaa2032011@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+* Full Stack Development
+* Tailwind CSS
+* React
+* Advanced Backend Development
+* Data Structures & Algorithms
+* Competitive Programming
+
+---
+
+# 📫 Connect with Me
+
+📧 **Email:** [moalaa2032011@gmail.com](mailto:moalaa2032011@gmail.com)
