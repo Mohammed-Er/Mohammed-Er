@@ -2,10 +2,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Grade-11%20STEM-purple?style=flat-square" alt="Grade">
-  <img src="https://img.shields.io/badge/Role-Aspiring%2# 👋 Hi, I'm Mohammed!
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Grade-11%20STEM-purple?style=flat-square" alt="Grade">
   <img src="https://img.shields.io/badge/Role-Aspiring%20Full--Stack%20Developer-orange?style=flat-square" alt="Role">
 </p>
 
@@ -73,7 +69,7 @@ A responsive landing page built with HTML, CSS, and JavaScript featuring a moder
 
 ---
 
-## 🎯 Currently Learning
+##  Currently Learning
 * React.js
 * Tailwind CSS
 * Advanced Full-Stack Architecture
@@ -91,6 +87,4 @@ A responsive landing page built with HTML, CSS, and JavaScript featuring a moder
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Er&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>0Full--Stack%20Developer-orange?style=flat-square" alt="Role">
 </p>
-
