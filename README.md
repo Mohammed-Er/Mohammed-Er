@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Role-Aspiring%20Full--Stack%20Developer-orange?style=flat-square" alt="Role">
 </p>
 
-I'm a self-taught full-stack developer from Egypt with a passion for software engineering, backend development, and solving real-world problems. I enjoy learning by building complete projects, exploring modern web technologies, and continuously improving my programming skills.
+I'm a self-taught full-stack developer with a passion for software engineering, backend development, and solving real-world problems. I enjoy learning by building complete projects, exploring modern web technologies, and continuously improving my programming skills.
 
 ---
 
