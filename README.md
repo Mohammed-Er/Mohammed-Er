@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Mohammed!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Grade-11%20STEM-purple?style=flat-square" alt="Grade">
   <img src="https://img.shields.io/badge/Role-Aspiring%20Full--Stack%20Developer-orange?style=flat-square" alt="Role">
 </p>
 
-I'm a self-taught full-stack developer and Grade 11 STEM student from Egypt with a passion for software engineering, backend development, and solving real-world problems. I enjoy learning by building complete projects, exploring modern web technologies, and continuously improving my programming skills.
+I'm a self-taught full-stack developer from Egypt with a passion for software engineering, backend development, and solving real-world problems. I enjoy learning by building complete projects, exploring modern web technologies, and continuously improving my programming skills.
 
 ---
 
@@ -40,7 +39,7 @@ I'm a self-taught full-stack developer and Grade 11 STEM student from Egypt with
 
 ---
 
-##  Projects I'm Proud Of
+## Featured Projectst
 
 ### 📝 TaskFlow - Full-Stack Todo Application
 A completely custom, database-backed, secure full-stack web application. Features a decoupled Node/Express REST API communicating with a dynamic Vanilla JavaScript frontend.
@@ -48,10 +47,9 @@ A completely custom, database-backed, secure full-stack web application. Feature
 **Key Features:**
 * User Registration & Login with JWT Authentication
 * Password Hashing (bcryptjs) & Protected Routes
-* Multi-user Authorization (Users only see their own data)
+* Multi-user Authorization 
 * Complete CRUD Operations on MongoDB
 * Dynamic DOM Rendering & Live UI State Management
-* Fully deployed with Cloud Database integration
 
 **Tech Stack:** Node.js • Express.js • MongoDB • Vanilla JS • HTML/CSS • Vercel
 
